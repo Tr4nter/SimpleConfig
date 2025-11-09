@@ -36,9 +36,9 @@ publishing {
 
 
             pom {
-                name.set("MyLib")
+                name.set("SimpleConfig")
                 description.set("Reusable Fabric library utilities")
-                url.set("https://github.com/YourUsername/mylib")
+                url.set("https://github.com/Tr4nter/SimpleConfig")
 
                 licenses {
                     license {
